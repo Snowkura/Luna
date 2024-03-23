@@ -1,2 +1,2 @@
 # Luna
-My fisrt game made by Unity
+Game made by Unity using C#. This is a file only contains scripts.
